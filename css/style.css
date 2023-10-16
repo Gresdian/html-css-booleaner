@@ -3,6 +3,7 @@
     margin: 0;
     box-sizing: border-box;
 }
+
 /* stile testata e logo */
 #spazio_testata{
     background-image: url('../css/img/pattern.png');
@@ -14,5 +15,25 @@
 .logo{
     width: 300px;
     padding-top: 60px;
+    padding-left: 15px;
+}
+
+/* stile titolo e sottotitolo */
+.titolo{
+    font-size: 60px;
+}
+.sottotitolo{
+    color: grey;
+}
+.sottotitolo_ev{
+    color: rgb(0, 187, 255);
+}
+.data{
+    color: grey;
+    font-size: 13px;
+}
+
+/*stile contenuto della pagina */
+.container{
     padding-left: 15px;
 }
