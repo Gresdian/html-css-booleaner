@@ -37,3 +37,25 @@
 .container{
     padding-left: 15px;
 }
+
+/* foto */
+.photo{
+    margin-top: 25px;
+}
+
+.photo_description{
+    font-family: 'Playfair Display', serif;
+    font-size: 12px;
+}
+
+/* paragrafo */
+.lorem_paragraph{
+    font-family: 'Playfair Display', serif;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    font-weight: 550;
+}
+
+.evidenziatore{
+    background-color: yellow;
+}
