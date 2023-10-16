@@ -59,3 +59,11 @@
 .evidenziatore{
     background-color: yellow;
 }
+
+/* lista non ordinata */
+
+.lista{
+    padding-left: 15px;
+    font-family: 'Playfair Display', serif;
+    font-weight: 550;
+}
