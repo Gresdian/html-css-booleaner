@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: 'Playfair Display', serif;
 }
 
 /* stile testata e logo */
@@ -9,7 +10,7 @@
     background-image: url('../css/img/pattern.png');
     height: 150px;
     width: auto;
-    background-color: #3d93ff;
+    background-color: #3d93ff
 }
 
 .logo{
@@ -44,13 +45,13 @@
 }
 
 .photo_description{
-    font-family: 'Playfair Display', serif;
+    
     font-size: 12px;
 }
 
 /* paragrafo */
 .lorem_paragraph{
-    font-family: 'Playfair Display', serif;
+    
     padding-top: 20px;
     padding-bottom: 30px;
     font-weight: 550;
@@ -64,6 +65,53 @@
 
 .lista{
     padding-left: 15px;
-    font-family: 'Playfair Display', serif;
+    
     font-weight: 550;
 }
+
+/* tabella */
+#customers{
+    
+    margin-top: 35px;
+    height: 250px;
+    width: auto;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.riga_azzurra{
+    background-color: #52f9ff79;
+}
+
+
+.thead{
+    background-color: #4fb3f7;
+    color: white;
+}
+
+/* pubblicità */
+.advertising{
+    color: grey;
+}
+
+.photo1{
+    background-image: url(../css/img/monitor.jpg);
+    width: 300px;
+    height: 207PX;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+
+.photo2{
+    background-image: url(../css/img/graph.jpg);
+    width: 300px;
+    height: 207PX;
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+    
+}
+
